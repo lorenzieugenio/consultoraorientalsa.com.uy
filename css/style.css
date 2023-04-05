@@ -1,0 +1,26 @@
+.board {
+	width: 500px;
+	height: 500px;
+	border: 2px solid black;
+	margin: auto;
+	position: relative;
+}
+
+.buttons {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.results {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.results p {
+	font-size: 18px;
+}
+
+.results span {
+	font-size: 20px;
+	font-weight: bold;
+}
